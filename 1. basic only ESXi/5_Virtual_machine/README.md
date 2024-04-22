@@ -99,15 +99,15 @@ VMXNET3 доступен только с VMware Tools
 
 ## Установка операционной системы
 
-[Установка Windows 10](https://github.com/storm39mad/VMware/blob/main/0_Additionally/1_OS_install/WindowsCLI.md )
+[Установка Windows 10](https://github.com/akkullow/VMware/blob/main/0_Additionally/1_OS_install/WindowsCLI.md )
 
-[Установка Windows Server](https://github.com/storm39mad/VMware/blob/main/0_Additionally/1_OS_install/WindowsServer.md )
+[Установка Windows Server](https://github.com/akkullow/VMware/blob/main/0_Additionally/1_OS_install/WindowsServer.md )
 
-[Установка CentOS](https://github.com/storm39mad/VMware/blob/main/0_Additionally/1_OS_install/centOS.md )
+[Установка CentOS](https://github.com/akkullow/VMware/blob/main/0_Additionally/1_OS_install/centOS.md )
 
-[Установка Debian](https://github.com/storm39mad/VMware/blob/main/0_Additionally/1_OS_install/debian.md )
+[Установка Debian](https://github.com/akkullow/VMware/blob/main/0_Additionally/1_OS_install/debian.md )
 
-[Установка Ubuntu](https://github.com/storm39mad/VMware/blob/main/0_Additionally/1_OS_install/ubuntu.md )
+[Установка Ubuntu](https://github.com/akkullow/VMware/blob/main/0_Additionally/1_OS_install/ubuntu.md )
 
 В данном примере будет использоваться дистрибудтив Debian в качестве операционной системы устанавливаемой на виртуальную машину 
 
@@ -131,9 +131,9 @@ VMware Tools - это набор утилит, который вы устана�
 
 VMware Tools улучшает производительность и управление виртуальной машиной.
 
-[Установка на Linux](https://github.com/storm39mad/VMware/tree/main/0_Additionally/2_VMware_Tools_install )
+[Установка на Linux](https://github.com/akkullow/VMware/tree/main/0_Additionally/2_VMware_Tools_install )
 
-[Установка на Windows](https://github.com/storm39mad/VMware/blob/main/0_Additionally/2_VMware_Tools_install/Windows.md)
+[Установка на Windows](https://github.com/akkullow/VMware/blob/main/0_Additionally/2_VMware_Tools_install/Windows.md)
 
 
 При наличии интернета в сегменте сети можно использовать команду 

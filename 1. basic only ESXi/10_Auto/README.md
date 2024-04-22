@@ -41,7 +41,7 @@ Set-PowerCLIConfiguration -Scope AllUsers -ParticipateInCeip $true
 ## Клонирование репозитория
 ```powershell
 cd C:\
-git clone https://github.com/storm39mad/VMware.git
+git clone https://github.com/akkullow/VMware.git
 ```
 
 ![image](https://user-images.githubusercontent.com/79700810/154930311-80c168f0-7d4f-4f5b-acde-82524ec16c74.png)
