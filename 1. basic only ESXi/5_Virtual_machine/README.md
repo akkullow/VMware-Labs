@@ -133,7 +133,7 @@ VMware Tools улучшает производительность и управ
 
 [Установка на Linux](https://github.com/akkullow/VMware-Labs/tree/main/1.%20basic%20only%20ESXi/0_Additionally/2_VMware_Tools_install )
 
-[Установка на Windows](https://github.com/akkullow/VMware-Labs/blob/main/0_Additionally/2_VMware_Tools_install/Windows.md)
+[Установка на Windows](https://github.com/akkullow/VMware-Labs/blob/main/1.%20basic%20only%20ESXi/0_Additionally/2_VMware_Tools_install/Windows.md)
 
 
 При наличии интернета в сегменте сети можно использовать команду 
