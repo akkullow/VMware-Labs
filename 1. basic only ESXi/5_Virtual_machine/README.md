@@ -99,15 +99,15 @@ VMXNET3 доступен только с VMware Tools
 
 ## Установка операционной системы
 
-[Установка Windows 10](https://github.com/akkullow/VMware-Labs/tree/main/1.%20basic%20only%20ESXi/0_Additionally/WindowsCLI.md )
+[Установка Windows 10](https://github.com/akkullow/VMware-Labs/blob/main/1.%20basic%20only%20ESXi/0_Additionally/1_OS_install/WindowsCLI.md )
 
-[Установка Windows Server](https://github.com/akkullow/VMware-Labs/tree/main/1.%20basic%20only%20ESXi/0_Additionally/WindowsServer.md )
+[Установка Windows Server](https://github.com/akkullow/VMware-Labs/blob/main/1.%20basic%20only%20ESXi/0_Additionally/1_OS_install/WindowsServer.md )
 
-[Установка CentOS](https://github.com/akkullow/VMware-Labs/tree/main/1.%20basic%20only%20ESXi/0_Additionally/centOS.md )
+[Установка CentOS](https://github.com/akkullow/VMware-Labs/blob/main/1.%20basic%20only%20ESXi/0_Additionally/1_OS_install/centOS.md )
 
-[Установка Debian](https://github.com/akkullow/VMware-Labs/tree/main/1.%20basic%20only%20ESXi/0_Additionally/debian.md )
+[Установка Debian](https://github.com/akkullow/VMware-Labs/blob/main/1.%20basic%20only%20ESXi/0_Additionally/1_OS_install/debian.md )
 
-[Установка Ubuntu](https://github.com/akkullow/VMware-Labs/tree/main/1.%20basic%20only%20ESXi/0_Additionally/ubuntu.md )
+[Установка Ubuntu](https://github.com/akkullow/VMware-Labs/blob/main/1.%20basic%20only%20ESXi/0_Additionally/1_OS_install/ubuntu.md )
 
 В данном примере будет использоваться дистрибудтив Debian в качестве операционной системы устанавливаемой на виртуальную машину 
 
